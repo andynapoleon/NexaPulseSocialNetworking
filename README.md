@@ -12,7 +12,7 @@ Make a distributed social network!
 📽️ Project Demo Video
 ============
 
-https://youtu.be/vIQlpqE3SDo
+https://github.com/user-attachments/assets/2becd93b-6038-443b-902f-f93d35f2090f
 
 🤝 Contributing
 ============
